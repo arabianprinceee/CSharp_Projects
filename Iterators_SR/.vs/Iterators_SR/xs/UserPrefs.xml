@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{24743662-50EC-4614-9648-3FEF18F17A4C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Iterators__SR FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StoreLib/MyClass.cs">
+    <Files>
+      <File FileName="Program.cs" Line="7" Column="33" />
+      <File FileName="StoreLib/MyClass.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Iterators_SR" expanded="True">
+            <Node name="Iterators_SR" expanded="True" />
+            <Node name="StoreLib" expanded="True">
+              <Node name="MyClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StoreLib FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

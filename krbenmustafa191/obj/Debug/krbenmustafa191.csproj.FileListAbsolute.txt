@@ -1,0 +1,9 @@
+/Users/anas/Projects/krbenmustafa191/bin/Debug/krbenmustafa191.exe
+/Users/anas/Projects/krbenmustafa191/bin/Debug/krbenmustafa191.pdb
+/Users/anas/Projects/krbenmustafa191/obj/Debug/krbenmustafa191.csprojAssemblyReference.cache
+/Users/anas/Projects/krbenmustafa191/obj/Debug/krbenmustafa191.csproj.CoreCompileInputs.cache
+/Users/anas/Projects/krbenmustafa191/obj/Debug/krbenmustafa191.exe
+/Users/anas/Projects/krbenmustafa191/obj/Debug/krbenmustafa191.pdb
+/Users/anas/Projects/krbenmustafa191/bin/Debug/PetLib.dll
+/Users/anas/Projects/krbenmustafa191/bin/Debug/PetLib.pdb
+/Users/anas/Projects/krbenmustafa191/obj/Debug/krbenmustafa191.csproj.CopyComplete

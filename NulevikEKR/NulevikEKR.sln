@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoKR1", "DemoKR1.csproj", "{737C8CAC-C7B1-4EBB-8645-B8D2CCD56C54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EKRLib", "EKRLib\EKRLib.csproj", "{868F947E-05A8-4A08-B2FF-96EDC2B6B9DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoKR2", "DemoKR2\DemoKR2.csproj", "{424B9703-1B42-404F-BA7B-398D38401F14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{737C8CAC-C7B1-4EBB-8645-B8D2CCD56C54}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{737C8CAC-C7B1-4EBB-8645-B8D2CCD56C54}.Debug|anycpu.Build.0 = Debug|anycpu
+		{737C8CAC-C7B1-4EBB-8645-B8D2CCD56C54}.Release|anycpu.ActiveCfg = Release|anycpu
+		{737C8CAC-C7B1-4EBB-8645-B8D2CCD56C54}.Release|anycpu.Build.0 = Release|anycpu
+		{868F947E-05A8-4A08-B2FF-96EDC2B6B9DA}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{868F947E-05A8-4A08-B2FF-96EDC2B6B9DA}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{868F947E-05A8-4A08-B2FF-96EDC2B6B9DA}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{868F947E-05A8-4A08-B2FF-96EDC2B6B9DA}.Release|anycpu.Build.0 = Release|Any CPU
+		{424B9703-1B42-404F-BA7B-398D38401F14}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{424B9703-1B42-404F-BA7B-398D38401F14}.Debug|anycpu.Build.0 = Debug|anycpu
+		{424B9703-1B42-404F-BA7B-398D38401F14}.Release|anycpu.ActiveCfg = Release|anycpu
+		{424B9703-1B42-404F-BA7B-398D38401F14}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

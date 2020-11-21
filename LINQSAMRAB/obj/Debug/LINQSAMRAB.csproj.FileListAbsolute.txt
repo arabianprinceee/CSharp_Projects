@@ -1,0 +1,6 @@
+/Users/anas/Projects/LINQSAMRAB/bin/Debug/LINQSAMRAB.exe
+/Users/anas/Projects/LINQSAMRAB/bin/Debug/LINQSAMRAB.pdb
+/Users/anas/Projects/LINQSAMRAB/obj/Debug/LINQSAMRAB.csprojAssemblyReference.cache
+/Users/anas/Projects/LINQSAMRAB/obj/Debug/LINQSAMRAB.csproj.CoreCompileInputs.cache
+/Users/anas/Projects/LINQSAMRAB/obj/Debug/LINQSAMRAB.exe
+/Users/anas/Projects/LINQSAMRAB/obj/Debug/LINQSAMRAB.pdb

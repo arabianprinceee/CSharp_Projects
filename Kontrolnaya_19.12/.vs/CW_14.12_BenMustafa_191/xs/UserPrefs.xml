@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{085BF1E0-C6A5-49A5-BE48-1C1E5FA06AC7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="64" Column="50" />
+      <File FileName="MyClasses/Cat.cs" />
+      <File FileName="MyClasses/Dog.cs" />
+      <File FileName="MyClasses/Animal.cs" />
+      <File FileName="MyClasses/AnimalException.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CW_14.12_BenMustafa_191" expanded="True">
+            <Node name="AnimalLib" expanded="True" />
+            <Node name="CW_14.12_BenMustafa_191" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CW__14.12__BenMustafa__191 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

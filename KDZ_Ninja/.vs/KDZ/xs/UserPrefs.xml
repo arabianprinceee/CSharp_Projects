@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{0E0AA603-3DE8-40E3-AF6B-9AE02A51F562}|Default">
+  <MonoDevelop.Ide.ItemProperties.KDZ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Main.cs">
+    <Files>
+      <File FileName="Main.cs" Line="12" Column="14" />
+      <File FileName="Fighter.cs" />
+      <File FileName="Ninja.cs" />
+      <File FileName="Samurai.cs" />
+      <File FileName="Human.cs" />
+      <File FileName="Helper.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KDZ" expanded="True">
+            <Node name="KDZ" expanded="True">
+              <Node name="Main.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

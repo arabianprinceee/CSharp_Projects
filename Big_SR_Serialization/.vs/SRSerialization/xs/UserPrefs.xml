@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{CBCA3BAD-23F9-4990-93A3-D91AEA892B2C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyLibrary/Helper.cs">
+    <Files>
+      <File FileName="Program.cs" Line="42" Column="26" />
+      <File FileName="MyLibrary/Cake.cs" Line="1" Column="1" />
+      <File FileName="MyLibrary/Electronics.cs" Line="1" Column="1" />
+      <File FileName="MyLibrary/Medicine.cs" />
+      <File FileName="MyLibrary/Shop.cs" Line="1" Column="1" />
+      <File FileName="MyLibrary/OnlineStore.cs" />
+      <File FileName="MyLibrary/SuperMarket.cs" />
+      <File FileName="MyLibrary/Mall.cs" />
+      <File FileName="MyLibrary/Stock.cs" Line="74" Column="62" />
+      <File FileName="MyLibrary/Helper.cs" Line="1" Column="1" />
+      <File FileName="MyLibrary/Item.cs" Line="18" Column="37" />
+      <File FileName="MyLibrary/RandomDateTime.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SRSerialization" expanded="True">
+            <Node name="MyLibrary" expanded="True">
+              <Node name="Helper.cs" selected="True" />
+            </Node>
+            <Node name="SRSerialization" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SRSerialization PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

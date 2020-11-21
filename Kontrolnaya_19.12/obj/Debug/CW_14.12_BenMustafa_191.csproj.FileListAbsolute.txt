@@ -1,0 +1,17 @@
+/Users/anas/Projects/CW_14.12_BenMustafa_191/bin/Debug/CW_14.12_BenMustafa_191.exe
+/Users/anas/Projects/CW_14.12_BenMustafa_191/bin/Debug/CW_14.12_BenMustafa_191.pdb
+/Users/anas/Projects/CW_14.12_BenMustafa_191/bin/Debug/MyClasses.dll
+/Users/anas/Projects/CW_14.12_BenMustafa_191/bin/Debug/MyClasses.pdb
+/Users/anas/Projects/CW_14.12_BenMustafa_191/obj/Debug/CW_14.12_BenMustafa_191.csprojAssemblyReference.cache
+/Users/anas/Projects/CW_14.12_BenMustafa_191/obj/Debug/CW_14.12_BenMustafa_191.csproj.CopyComplete
+/Users/anas/Projects/CW_14.12_BenMustafa_191/obj/Debug/CW_14.12_BenMustafa_191.exe
+/Users/anas/Projects/CW_14.12_BenMustafa_191/obj/Debug/CW_14.12_BenMustafa_191.pdb
+Y:\Kontrolnaya_19.12\bin\Debug\CW_14.12_BenMustafa_191.exe
+Y:\Kontrolnaya_19.12\bin\Debug\CW_14.12_BenMustafa_191.pdb
+Y:\Kontrolnaya_19.12\bin\Debug\MyClasses.dll
+Y:\Kontrolnaya_19.12\bin\Debug\MyClasses.pdb
+Y:\Kontrolnaya_19.12\obj\Debug\CW_14.12_BenMustafa_191.csprojAssemblyReference.cache
+Y:\Kontrolnaya_19.12\obj\Debug\CW_14.12_BenMustafa_191.csproj.CoreCompileInputs.cache
+Y:\Kontrolnaya_19.12\obj\Debug\CW_14.12_BenMustafa_191.csproj.CopyComplete
+Y:\Kontrolnaya_19.12\obj\Debug\CW_14.12_BenMustafa_191.exe
+Y:\Kontrolnaya_19.12\obj\Debug\CW_14.12_BenMustafa_191.pdb

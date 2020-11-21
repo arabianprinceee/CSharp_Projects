@@ -1,0 +1,6 @@
+/Users/anas/Projects/LINQTraining/bin/Debug/LINQTraining.exe
+/Users/anas/Projects/LINQTraining/bin/Debug/LINQTraining.pdb
+/Users/anas/Projects/LINQTraining/obj/Debug/LINQTraining.csprojAssemblyReference.cache
+/Users/anas/Projects/LINQTraining/obj/Debug/LINQTraining.csproj.CoreCompileInputs.cache
+/Users/anas/Projects/LINQTraining/obj/Debug/LINQTraining.exe
+/Users/anas/Projects/LINQTraining/obj/Debug/LINQTraining.pdb

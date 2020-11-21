@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{663D4D40-F1D9-4715-B56A-EA992E575418}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="17" Column="99" />
+      <File FileName="PetLib/Cat.cs" />
+      <File FileName="PetLib/Dog.cs" />
+      <File FileName="PetLib/IPet.cs" />
+      <File FileName="PetLib/PetException.cs" />
+      <File FileName="Helper.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="krbenmustafa191" expanded="True">
+            <Node name="krbenmustafa191" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="PetLib" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.krbenmustafa191 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

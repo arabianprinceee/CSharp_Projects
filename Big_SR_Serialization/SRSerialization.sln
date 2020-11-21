@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRSerialization", "SRSerialization.csproj", "{CBCA3BAD-23F9-4990-93A3-D91AEA892B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "MyLibrary\MyLibrary.csproj", "{57544AA5-DB46-4855-8573-CC1B799CFF25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBCA3BAD-23F9-4990-93A3-D91AEA892B2C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CBCA3BAD-23F9-4990-93A3-D91AEA892B2C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CBCA3BAD-23F9-4990-93A3-D91AEA892B2C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CBCA3BAD-23F9-4990-93A3-D91AEA892B2C}.Release|anycpu.Build.0 = Release|anycpu
+		{57544AA5-DB46-4855-8573-CC1B799CFF25}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{57544AA5-DB46-4855-8573-CC1B799CFF25}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{57544AA5-DB46-4855-8573-CC1B799CFF25}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{57544AA5-DB46-4855-8573-CC1B799CFF25}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+/Users/anas/Projects/krbenmustafa191/PetLib/obj/Debug/PetLib.csprojAssemblyReference.cache
+/Users/anas/Projects/krbenmustafa191/PetLib/obj/Debug/PetLib.csproj.CoreCompileInputs.cache
+/Users/anas/Projects/krbenmustafa191/PetLib/bin/Debug/PetLib.dll
+/Users/anas/Projects/krbenmustafa191/PetLib/bin/Debug/PetLib.pdb
+/Users/anas/Projects/krbenmustafa191/PetLib/obj/Debug/PetLib.dll
+/Users/anas/Projects/krbenmustafa191/PetLib/obj/Debug/PetLib.pdb
+/Users/anas/Projects/krbenmustafa191 2/PetLib/bin/Debug/PetLib.dll
+/Users/anas/Projects/krbenmustafa191 2/PetLib/bin/Debug/PetLib.pdb
+/Users/anas/Projects/krbenmustafa191 2/PetLib/obj/Debug/PetLib.csprojAssemblyReference.cache
+/Users/anas/Projects/krbenmustafa191 2/PetLib/obj/Debug/PetLib.csproj.CoreCompileInputs.cache
+/Users/anas/Projects/krbenmustafa191 2/PetLib/obj/Debug/PetLib.dll
+/Users/anas/Projects/krbenmustafa191 2/PetLib/obj/Debug/PetLib.pdb

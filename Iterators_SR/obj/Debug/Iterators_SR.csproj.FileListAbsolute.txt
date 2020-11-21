@@ -1,0 +1,9 @@
+/Users/anas/Projects/Iterators_SR/bin/Debug/Iterators_SR.exe
+/Users/anas/Projects/Iterators_SR/bin/Debug/Iterators_SR.pdb
+/Users/anas/Projects/Iterators_SR/bin/Debug/StoreLib.dll
+/Users/anas/Projects/Iterators_SR/bin/Debug/StoreLib.pdb
+/Users/anas/Projects/Iterators_SR/obj/Debug/Iterators_SR.csprojAssemblyReference.cache
+/Users/anas/Projects/Iterators_SR/obj/Debug/Iterators_SR.csproj.CoreCompileInputs.cache
+/Users/anas/Projects/Iterators_SR/obj/Debug/Iterators_SR.csproj.CopyComplete
+/Users/anas/Projects/Iterators_SR/obj/Debug/Iterators_SR.exe
+/Users/anas/Projects/Iterators_SR/obj/Debug/Iterators_SR.pdb

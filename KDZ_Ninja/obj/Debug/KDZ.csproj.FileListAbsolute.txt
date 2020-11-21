@@ -1,0 +1,12 @@
+/Users/anas/Projects/KDZ/bin/Debug/KDZ.exe
+/Users/anas/Projects/KDZ/bin/Debug/KDZ.pdb
+/Users/anas/Projects/KDZ/obj/Debug/KDZ.csprojAssemblyReference.cache
+/Users/anas/Projects/KDZ/obj/Debug/KDZ.exe
+/Users/anas/Projects/KDZ/obj/Debug/KDZ.pdb
+/Users/anas/Projects/KDZ/obj/Debug/KDZ.csproj.CoreCompileInputs.cache
+Y:\KDZ_Ninja\bin\Debug\KDZ.exe
+Y:\KDZ_Ninja\bin\Debug\KDZ.pdb
+Y:\KDZ_Ninja\obj\Debug\KDZ.csprojAssemblyReference.cache
+Y:\KDZ_Ninja\obj\Debug\KDZ.csproj.CoreCompileInputs.cache
+Y:\KDZ_Ninja\obj\Debug\KDZ.exe
+Y:\KDZ_Ninja\obj\Debug\KDZ.pdb

@@ -1,0 +1,12 @@
+/Users/anasbenmustafa/Projects/BenMustafaAnas_191_3/BenMustafaAnas_191_3/bin/Debug/BenMustafaAnas_191_3.exe
+/Users/anasbenmustafa/Projects/BenMustafaAnas_191_3/BenMustafaAnas_191_3/bin/Debug/BenMustafaAnas_191_3.pdb
+/Users/anasbenmustafa/Projects/BenMustafaAnas_191_3/BenMustafaAnas_191_3/obj/Debug/BenMustafaAnas_191_3.csprojAssemblyReference.cache
+/Users/anasbenmustafa/Projects/BenMustafaAnas_191_3/BenMustafaAnas_191_3/obj/Debug/BenMustafaAnas_191_3.csproj.CoreCompileInputs.cache
+/Users/anasbenmustafa/Projects/BenMustafaAnas_191_3/BenMustafaAnas_191_3/obj/Debug/BenMustafaAnas_191_3.exe
+/Users/anasbenmustafa/Projects/BenMustafaAnas_191_3/BenMustafaAnas_191_3/obj/Debug/BenMustafaAnas_191_3.pdb
+/Users/anasbenmustafa/С#_Projects/BenMustafaAnas_191_3/BenMustafaAnas_191_3/bin/Debug/BenMustafaAnas_191_3.exe
+/Users/anasbenmustafa/С#_Projects/BenMustafaAnas_191_3/BenMustafaAnas_191_3/bin/Debug/BenMustafaAnas_191_3.pdb
+/Users/anasbenmustafa/С#_Projects/BenMustafaAnas_191_3/BenMustafaAnas_191_3/obj/Debug/BenMustafaAnas_191_3.csprojAssemblyReference.cache
+/Users/anasbenmustafa/С#_Projects/BenMustafaAnas_191_3/BenMustafaAnas_191_3/obj/Debug/BenMustafaAnas_191_3.csproj.CoreCompileInputs.cache
+/Users/anasbenmustafa/С#_Projects/BenMustafaAnas_191_3/BenMustafaAnas_191_3/obj/Debug/BenMustafaAnas_191_3.exe
+/Users/anasbenmustafa/С#_Projects/BenMustafaAnas_191_3/BenMustafaAnas_191_3/obj/Debug/BenMustafaAnas_191_3.pdb

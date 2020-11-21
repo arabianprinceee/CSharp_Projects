@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CW_14.12_BenMustafa_191", "CW_14.12_BenMustafa_191.csproj", "{085BF1E0-C6A5-49A5-BE48-1C1E5FA06AC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalLib", "MyClasses\AnimalLib.csproj", "{5525E029-6EAF-4687-A80C-AA9DA6FA5C6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{085BF1E0-C6A5-49A5-BE48-1C1E5FA06AC7}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{085BF1E0-C6A5-49A5-BE48-1C1E5FA06AC7}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{085BF1E0-C6A5-49A5-BE48-1C1E5FA06AC7}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{085BF1E0-C6A5-49A5-BE48-1C1E5FA06AC7}.Release|anycpu.Build.0 = Release|Any CPU
+		{5525E029-6EAF-4687-A80C-AA9DA6FA5C6C}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{5525E029-6EAF-4687-A80C-AA9DA6FA5C6C}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{5525E029-6EAF-4687-A80C-AA9DA6FA5C6C}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{5525E029-6EAF-4687-A80C-AA9DA6FA5C6C}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED02462A-9088-4192-8226-2D23F41B5A5A}
+	EndGlobalSection
+EndGlobal

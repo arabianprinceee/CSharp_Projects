@@ -1,0 +1,6 @@
+/Users/anas/Projects/ThreadTraining/bin/Debug/ThreadTraining.exe
+/Users/anas/Projects/ThreadTraining/bin/Debug/ThreadTraining.pdb
+/Users/anas/Projects/ThreadTraining/obj/Debug/ThreadTraining.csprojAssemblyReference.cache
+/Users/anas/Projects/ThreadTraining/obj/Debug/ThreadTraining.csproj.CoreCompileInputs.cache
+/Users/anas/Projects/ThreadTraining/obj/Debug/ThreadTraining.exe
+/Users/anas/Projects/ThreadTraining/obj/Debug/ThreadTraining.pdb

@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "krbenmustafa191", "krbenmustafa191.csproj", "{663D4D40-F1D9-4715-B56A-EA992E575418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetLib", "PetLib\PetLib.csproj", "{0272B580-B0D9-4031-94E6-7F750F590DAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{663D4D40-F1D9-4715-B56A-EA992E575418}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{663D4D40-F1D9-4715-B56A-EA992E575418}.Debug|anycpu.Build.0 = Debug|anycpu
+		{663D4D40-F1D9-4715-B56A-EA992E575418}.Release|anycpu.ActiveCfg = Release|anycpu
+		{663D4D40-F1D9-4715-B56A-EA992E575418}.Release|anycpu.Build.0 = Release|anycpu
+		{0272B580-B0D9-4031-94E6-7F750F590DAB}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{0272B580-B0D9-4031-94E6-7F750F590DAB}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{0272B580-B0D9-4031-94E6-7F750F590DAB}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{0272B580-B0D9-4031-94E6-7F750F590DAB}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

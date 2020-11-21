@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{737C8CAC-C7B1-4EBB-8645-B8D2CCD56C54}|Default">
+  <MonoDevelop.Ide.ItemProperties.EKRLib FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DemoKR2 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="13" Column="1" />
+      <File FileName="EKRLib/MyClass.cs" Line="26" Column="41" />
+      <File FileName="EKRLib/Freight.cs" Line="41" Column="97" />
+      <File FileName="EKRLib/Collection.cs" Line="27" Column="1" />
+      <File FileName="EKRLib/CollectionEnumerator.cs" Line="21" Column="87" />
+      <File FileName="DemoKR2/Program.cs" Line="12" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NulevikEKR" expanded="True">
+            <Node name="DemoKR1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="DemoKR2" expanded="True" />
+            <Node name="EKRLib" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DemoKR1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
